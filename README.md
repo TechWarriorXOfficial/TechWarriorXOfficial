@@ -11,7 +11,7 @@ I’m currently pursuing a Master of Science in Interactive Technologies Program
 I’m currently working on enhancing my skills in full-stack development and exploring new technologies.
 
 ## 🌐 Top Languages
-![TechWarriorXOfficial's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TechWarriorXOfficial&theme=yeblu&show_icons=true&hide_border=false&layout=compact)
+![TechWarriorXOfficial's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TechWarriorXOfficial&theme=vue&show_icons=true&hide_border=true&layout=compact)
 
 Feel free to explore my repositories and connect with me!
 
